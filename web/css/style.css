@@ -15,6 +15,17 @@ html{
     scroll-behavior: smooth;
 }
 
+footer {
+  position: relative; 
+  bottom: 2px;
+  height: 71px;
+  border-top: 0.5px solid #5f5f5f;
+  font-family: RobotoMono-Regular,RobotoMono;
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+}
+
 .logos{
     order:0;
 }
@@ -201,9 +212,6 @@ canvas {
     z-index: 1;
     top: -30vh
   }
-
-
-
 
   .cardcontainer {
     display: flex;
