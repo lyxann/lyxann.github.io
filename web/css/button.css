@@ -28,7 +28,7 @@ button {
   width: 20vh;
   height: 40px;
   color: #fff;
-  border-radius: 10vh;
+  border-radius: 2vh;
   padding: 10px 25px;
   font-family: 'Lato', sans-serif;
   font-weight: 500;
@@ -45,12 +45,12 @@ button {
 
 /* 1 */
 .btn-1 {
-  background: rgb(23, 189, 106);
-  background: linear-gradient(0deg, rgb(23, 189, 106) 0%, rgb(23, 189, 106) 100%);
+  background: #0dd1ae;
+  background: linear-gradient(0deg, #0dd1ae 0%, #0dd1ae 100%);
   border: none;
   padding: 0px;
 }
 .btn-1:hover {
-   background: rgb(30, 211, 90);
-background: linear-gradient(0deg, rgb(23, 189, 106) 0%, rgb(23, 189, 106) 100%);
+  background: #299e89;
+  background: linear-gradient(0deg, #299e89 0%, #299e89 100%);
 }
